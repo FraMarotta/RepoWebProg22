@@ -1,3 +1,4 @@
 # Mini HomeWork 1 - MAROTTA
-Repo MiniHW1
+
+Homework for Web Programming Course at @DIEEI-UNICT 
 
